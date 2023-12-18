@@ -1,0 +1,57 @@
+{
+  "MESA 0": {
+    "image": "https://cdn-icons-png.flaticon.com/512/898/898087.png",
+    "members": [
+      "Adílio",
+      "Catarina",
+      "Ricardo",
+      "Valéria",
+      "Junior",
+      "Jéssica",
+      "Brás",
+      "Raimundo"
+    ]
+  },
+  "MESA 1": {
+    "image": "https://cdn-icons-png.flaticon.com/512/898/898087.png",
+    "members": [
+      "Agostinho Geraldo",
+      "Eduardo Vital",
+      "Luís Órfão",
+      "Catarina Anjos",
+      "Raquel Almeida",
+      "Tim de Deygere",
+      "Sara Nora",
+      "Raquel Santos"
+    ]
+  },
+  "MESA 2": {
+    "image": "https://cdn-icons-png.flaticon.com/512/898/898087.png",
+    "members": [
+      "Marta Rodrigues",
+      "Mariana Oliveira",
+      "André Lopes",
+      "João Machado",
+      "Bernardo Santiago",
+      "Joana Neves",
+      "Fernando Ramalho",
+      "Cátia Sousa",
+      "Vera Duarte",
+      "José Pedro Santos"
+    ]
+  },
+  "MESA 3": {
+    "image": "https://cdn-icons-png.flaticon.com/512/898/898087.png",
+    "members": [
+      "Susana Penela",
+      "Marcílio Penela",
+      "Diana Penela",
+      "Márcia Penela",
+      "Paula Figueiredo",
+      "João Lopes",
+      "Rita Lopes",
+      "Carolina Silva",
+      "Filipa Morais"
+    ]
+  }
+}
